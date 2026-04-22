@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Crystal 👋
 
-<!--
-**Crystal-8143/Crystal-8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Engineer
+🎓 Holberton School Graduate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧩 Job Tracker App (IN PROGRESS)
+
+A full-stack app to help users track job applications, interviews, and progress.
+
+**Tech:** React, Flask, PostgreSQL
+
+---
+
+### ⚙️ Simple Shell (C)
+
+A custom Unix shell built from scratch.
+
+**Highlights:**
+
+* Process handling
+* Command parsing
+* Memory management
+
+---
+
+### 🖨️ Printf (C)
+
+Recreated the standard printf function.
+
+**Highlights:**
+
+* Variadic functions
+* Format specifiers
+* Low-level output handling
+
+---
+
+## 🛠 Tech Stack
+
+* Python, JavaScript, C
+* React, Flask
+* SQL, Git
+
+---
+
+## 📫 Connect
+
+* LinkedIn (add this)
+* Email (optional)
