@@ -43,11 +43,11 @@ Recreated the standard printf function.
 
 * Python, JavaScript, C
 * React, Flask
-* SQL, Git
+* SQL, GitHub
 
 ---
 
 ## 📫 Connect
 
-* LinkedIn (add this)
-* Email (optional)
+* LinkedIn https://www.linkedin.com/in/crystal-carroll-9070b4270/
+* Email hydraxxx85@gmail.com
